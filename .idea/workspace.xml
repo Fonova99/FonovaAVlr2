@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="068448a4-c539-4df1-af9e-1794e363c9c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FonovaAVlr2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntroSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TimSort.java" afterDir="false" />
+    <list default="true" id="068448a4-c539-4df1-af9e-1794e363c9c8" name="Changes" comment="Сортировка TimSort">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/IdeaProjects/FonovaAVlr1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Acer/IdeaProjects/FonovaAVlr1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -84,8 +73,79 @@
       <workItem from="1698759283905" duration="14276000" />
       <workItem from="1698848286344" duration="9203000" />
       <workItem from="1699902306047" duration="5372000" />
-      <workItem from="1699995490699" duration="6962000" />
+      <workItem from="1699995490699" duration="7521000" />
     </task>
+    <task id="LOCAL-00001" summary="Запуск различных сортировок">
+      <created>1700002588213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700002588213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Сортировка пузырьком">
+      <created>1700002623746</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700002623746</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Пирамидальная сортировка">
+      <created>1700002785709</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700002785709</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Сортировка вставками">
+      <created>1700002888274</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700002888274</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Сортировка IntroSort">
+      <created>1700002913170</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700002913170</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Сортировка слиянием">
+      <created>1700002933814</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700002933814</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Быстрая сортировка">
+      <created>1700002955019</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700002955019</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Сортировка выбором">
+      <created>1700002973684</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700002973684</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Сортировка Шелла">
+      <created>1700002985957</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700002985957</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Сортировка TimSort">
+      <created>1700003005803</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700003005803</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,5 +161,18 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Запуск различных сортировок" />
+    <MESSAGE value="Сортировка пузырьком" />
+    <MESSAGE value="Пирамидальная сортировка" />
+    <MESSAGE value="Сортировка вставками" />
+    <MESSAGE value="Сортировка IntroSort" />
+    <MESSAGE value="Сортировка слиянием" />
+    <MESSAGE value="Быстрая сортировка" />
+    <MESSAGE value="Сортировка выбором" />
+    <MESSAGE value="Сортировка Шелла" />
+    <MESSAGE value="Сортировка TimSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сортировка TimSort" />
   </component>
 </project>

@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class Main {
     public static void printArray(int[] arr) {
         int n = arr.length;
-        for (int i = 0; i < n; ++i) {
-            System.out.print(arr[i] + " ");
+        for (int i : arr) {
+            System.out.print(i + " ");
         }
         System.out.println();
     }
@@ -41,8 +41,8 @@ public class Main {
             System.out.println("5.Быстрая сортировка");
             System.out.println("6.Сортировка Шелла");
             System.out.println("7.Пирамидальная сортировка");
-            System.out.println("8.Timsort");
-            System.out.println("9.IntroSor");
+            System.out.println("8.TimSort");
+            System.out.println("9.IntroSort");
             System.out.println("10.Выйти из программы");
             System.out.println("\nВыберите номер действия:");
             choice = scanner.nextInt();
